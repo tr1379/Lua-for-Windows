@@ -20,5 +20,6 @@
 ```lua
 	print("Hello World!")
 ```
+
     ![alt img9](/resource/img9.jpg "lua")
 open the cmd console and enter into "release" folder to run "luac test.lua" then you will see a file named "lua.out" generated.
