@@ -11,7 +11,7 @@
 5. write a test.lua file int the project's release folder just like:
 
 ```lua
-print("Hello World!")
+	print("Hello World!")
 ```
 
 open the cmd console and enter into "release" folder to run "luac test.lua" then you will see a file named "lua.out" generated.
